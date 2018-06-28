@@ -8,8 +8,8 @@
     <h5>Không xóa được ảnh bìa, ảnh đại diện, bài được tag</h5>
     <form method="post">
         <h3><a href="https://fb.com/me" target="_blank">Cách lấy token: Ấn vào đây => Ctrl U => Ctrl F => Tìm EAAA... (copy đoạn EAAA dài nhất)</a></h3>
-        <input type="text" name="token" placeholder="Nhập token vào đây"><br>
-        <input type="number" name="id" placeholder="Nhập ID người dùng (hoặc nhóm, hoặc trang) muốn xóa"><br>
+        <input type="text" name="token" placeholder="EAAAAUaZA8jlABAKNnFTFqZAwlUYaNTm43pjOS7q1bU5wE3B2vcj1MRZBUYZC0okZAtfj3ZBvJxvgfz07k2mHTB2caKuSIH4ICjMtu7nlptlkV1pCQcvHz94Gd5APts8bYcMZBXPGPFbheRyAMQ8MCZCpSqZA4BceaPlnlfuyLWXaLqwZDZD"><br>
+        <input type="number" name="id" placeholder="100004619974174"><br>
         Xóa hết<input type="radio" name="all" value="1" checked><br>
         Xóa theo thời gian<input type="radio" name="all" value="0"><br>
         Bắt đầu từ ngày nào (có thể để trống nếu muốn xóa hết):<input type="date" name="since""><br>
